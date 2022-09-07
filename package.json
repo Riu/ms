@@ -3,7 +3,7 @@
   "version": "2.1.2",
   "description": "Tiny millisecond conversion utility",
   "repository": "zeit/ms",
-  "main": "./index",
+  "main": "./index.js",
   "files": [
     "index.js"
   ],
