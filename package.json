@@ -3,7 +3,7 @@
   "version": "2.1.3",
   "description": "Tiny millisecond conversion utility",
   "repository": "vercel/ms",
-  "main": "./index",
+  "main": "./index.js",
   "files": [
     "index.js"
   ],
